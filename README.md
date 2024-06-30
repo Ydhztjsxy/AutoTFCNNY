@@ -48,7 +48,14 @@ This repository contains the code and the data to train **AutoTFCNNY** model.
          │ 
          ├── Result                         <- Experimental results of AutoTFCNNY
          |
-         |       
+         | 
+         |── Compare and contrast models of notebooks   <- Compare the code of the model.
+         │   ├── DeepLION.ipynb                     
+         │   ├── DeepLION2.ipynb                
+         │   ├── MINN-SA.ipynb                 
+         │   ├── BiFormer.ipynb            
+         │   ├── TransMIL.ipynb  
+         │ 
          ├── AutoTFCNNY VS Deeplion             <- AutoTFCNNY experiments on the Deeplion dataset       
              ├── Notebooks                   <- AutoTFCNNY and Deeplion  code for jupyter notebook.
              │   ├── AutoTFCNNY-model.ipynb                <- Training  AutoTFCNNY models.

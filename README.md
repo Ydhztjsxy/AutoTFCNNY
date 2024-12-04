@@ -179,10 +179,10 @@ Mean AUC (BC): 0.9991
 
 The metrics, accuracy, sensitivity, specificity, and area under the receiver operating characteristic (ROC) curve (AUC), are calculated and printed as:
 ``` 
-UBC - Accuracy: 0.9167, Sensitivity: 0.9167, Specificity: 0.9167, AUC: 0.9931
-BRCA - Accuracy: 0.9130, Sensitivity: 0.8261, Specificity: 1.0000, AUC: 1.0000
-NSCLC - Accuracy: 0.7863, Sensitivity: 0.6364, Specificity: 0.9804, AUC: 0.9837
-Melanoma - Accuracy: 0.9762, Sensitivity: 0.9524, Specificity: 1.0000, AUC: 1.0000
+UBC - Accuracy: 0.9167, Sensitivity: 0.8333, Specificity: 1.0000, AUC: 0.9931
+BRCA - Accuracy: 0.7174, Sensitivity: 0.4348, Specificity: 1.0000, AUC: 1.0000
+NSCLC - Accuracy: 0.7009, Sensitivity: 0.4697, Specificity: 1.0000, AUC: 0.9923
+Melanoma - Accuracy: 1.0000, Sensitivity: 1.0000, Specificity: 1.0000, AUC: 1.0000
 CRC - Accuracy: 0.9000, Sensitivity: 0.8000, Specificity: 1.0000, AUC: 0.9800
 
 ```
